@@ -1,0 +1,46 @@
+body {
+	background-color: #E6E3BB;
+	color: #8E4423;
+	font-family: Lucida Bright;
+}
+
+h2 {
+	text-decoration: underline;
+}
+
+table th {
+	font-style: italic;
+}
+
+input {
+	background-color: #FDFFE3;
+	color: #8E4423;
+	font-family: Lucida Bright;
+}
+
+table {
+	//border: 1px solid #FDFFE3;
+}
+
+#posts td {
+	height: 40px;
+	text-align: left;
+	vertical-align: top;
+}
+
+#posts th {
+	text-align: left;
+	vertical-align: top;
+}
+
+#message {
+	background-color: #FDFFE3;
+}
+
+#profile td {
+	text-align: center;
+}
+
+a {
+	color: #C6491A;
+}
